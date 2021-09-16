@@ -1,6 +1,6 @@
 # JPA Behaviour with transient fields in nested embedded objects
 
-This project should show unexpected behaviour using hibernate when having an entity, that has nested embedded objects with transient fields.
+This project shows unexpected behaviour using hibernate to store/read an entity, that has nested embedded objects with transient fields.
 
 It also compares the behaviour when replacing hibernate with EclipseLink.
 
